@@ -1,4 +1,4 @@
-## A+ssignment-1
+## Assignment-1
 this repository contains two task each for the assignment 1 of tutedude python program
 ## Task 1
 this task aims to get input of two numbers from the users and performing basic mathematical operations on these two numbers i.e. addition, subtraction, multiplication, division.
